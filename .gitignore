@@ -1,0 +1,25 @@
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# large, fully reproducible files (python src/generate_sim.py && python src/run_sql.py)
+data/clean/
+data/recon.duckdb
+data/recon.duckdb.wal
+
+# Excel / Office temp files
+~$*
+
+# personal notes (French guides, interview prep, salary): never published
+prep/
+
+# Tableau: the .twb points to absolute local paths; the portable .twbx is the file to share
+tableau/*.twb
+tableau/~*
+
+# Tableau Hyper API log
+hyperd*.log
+
+# local QA helpers (drive / capture our own Tableau test window)
+src/*.ps1

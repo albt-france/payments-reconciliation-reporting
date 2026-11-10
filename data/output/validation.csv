@@ -1,0 +1,12 @@
+issue_type,planted,found,true_positives,missed,false_alarms,recall,precision,status_ok
+address_reuse,513,513,513,0,0,1.0,1.0,1.0
+late_payment,3362,3362,3362,0,0,1.0,1.0,1.0
+ledger_duplicate,2238,2238,2238,0,0,1.0,1.0,1.0
+missing_partner_fee,1495,1381,1381,114,0,0.9237,1.0,1.0
+overpayment,1736,1736,1736,0,0,1.0,1.0,1.0
+premature_credit,659,659,659,0,0,1.0,1.0,1.0
+rate_gap,1709,1709,1709,0,0,1.0,1.0,1.0
+timezone_cutoff,1910,1910,1910,0,0,1.0,1.0,1.0
+underpayment,4490,4490,4490,0,0,1.0,1.0,1.0
+wrong_network,625,625,625,0,0,1.0,1.0,1.0
+,18737,18623,18623,114,0,0.9939,1.0,1.0

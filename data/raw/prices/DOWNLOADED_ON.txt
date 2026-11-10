@@ -1,0 +1,1 @@
+Downloaded on 2026-11-10 from data-api.binance.vision (daily klines, close) and data-api.ecb.europa.eu (EXR D.USD.EUR.SP00.A). Period 2024-11-01 to 2026-10-31.

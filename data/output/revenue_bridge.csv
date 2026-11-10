@@ -1,0 +1,300 @@
+month,previous_month,step_order,step,segment,value
+2024-12-01,2024-11-01,1,Revenue previous month,All,54589.42
+2024-12-01,2024-11-01,2,Volume effect,All,3680.593622
+2024-12-01,2024-11-01,3,Mix effect,E-commerce,480.124012
+2024-12-01,2024-11-01,3,Mix effect,Forex,610.471418
+2024-12-01,2024-11-01,3,Mix effect,Marketplace,-10.334895
+2024-12-01,2024-11-01,3,Mix effect,SaaS,-1269.53798
+2024-12-01,2024-11-01,3,Mix effect,iGaming,358.514102
+2024-12-01,2024-11-01,4,Take-rate effect,E-commerce,327.509367
+2024-12-01,2024-11-01,4,Take-rate effect,Forex,1136.887949
+2024-12-01,2024-11-01,4,Take-rate effect,Marketplace,198.134202
+2024-12-01,2024-11-01,4,Take-rate effect,SaaS,983.16226
+2024-12-01,2024-11-01,4,Take-rate effect,iGaming,549.375943
+2024-12-01,2024-11-01,5,Revenue this month,All,61634.32
+2025-01-01,2024-12-01,1,Revenue previous month,All,61634.32
+2025-01-01,2024-12-01,2,Volume effect,All,1575.013839
+2025-01-01,2024-12-01,3,Mix effect,E-commerce,-23.758035
+2025-01-01,2024-12-01,3,Mix effect,Forex,503.120327
+2025-01-01,2024-12-01,3,Mix effect,Marketplace,-60.42497
+2025-01-01,2024-12-01,3,Mix effect,SaaS,-343.05993
+2025-01-01,2024-12-01,3,Mix effect,iGaming,-68.654903
+2025-01-01,2024-12-01,4,Take-rate effect,E-commerce,-152.129317
+2025-01-01,2024-12-01,4,Take-rate effect,Forex,-448.61129
+2025-01-01,2024-12-01,4,Take-rate effect,Marketplace,-145.781129
+2025-01-01,2024-12-01,4,Take-rate effect,SaaS,-295.886959
+2025-01-01,2024-12-01,4,Take-rate effect,iGaming,-229.357634
+2025-01-01,2024-12-01,5,Revenue this month,All,61944.79
+2025-02-01,2025-01-01,1,Revenue previous month,All,61944.79
+2025-02-01,2025-01-01,2,Volume effect,All,-4897.518154
+2025-02-01,2025-01-01,3,Mix effect,E-commerce,-2380.698867
+2025-02-01,2025-01-01,3,Mix effect,Forex,-298.062414
+2025-02-01,2025-01-01,3,Mix effect,Marketplace,-154.519503
+2025-02-01,2025-01-01,3,Mix effect,SaaS,2640.123973
+2025-02-01,2025-01-01,3,Mix effect,iGaming,-236.74294
+2025-02-01,2025-01-01,4,Take-rate effect,E-commerce,459.539308
+2025-02-01,2025-01-01,4,Take-rate effect,Forex,-139.300334
+2025-02-01,2025-01-01,4,Take-rate effect,Marketplace,-18.335297
+2025-02-01,2025-01-01,4,Take-rate effect,SaaS,68.552916
+2025-02-01,2025-01-01,4,Take-rate effect,iGaming,101.821314
+2025-02-01,2025-01-01,5,Revenue this month,All,57089.65
+2025-03-01,2025-02-01,1,Revenue previous month,All,57089.65
+2025-03-01,2025-02-01,2,Volume effect,All,6703.276814
+2025-03-01,2025-02-01,3,Mix effect,E-commerce,-571.330631
+2025-03-01,2025-02-01,3,Mix effect,Forex,693.427364
+2025-03-01,2025-02-01,3,Mix effect,Marketplace,483.181885
+2025-03-01,2025-02-01,3,Mix effect,SaaS,-407.198831
+2025-03-01,2025-02-01,3,Mix effect,iGaming,-227.582953
+2025-03-01,2025-02-01,4,Take-rate effect,E-commerce,183.861912
+2025-03-01,2025-02-01,4,Take-rate effect,Forex,-306.672368
+2025-03-01,2025-02-01,4,Take-rate effect,Marketplace,37.821991
+2025-03-01,2025-02-01,4,Take-rate effect,SaaS,294.407194
+2025-03-01,2025-02-01,4,Take-rate effect,iGaming,119.227623
+2025-03-01,2025-02-01,5,Revenue this month,All,64092.07
+2025-04-01,2025-03-01,1,Revenue previous month,All,64092.07
+2025-04-01,2025-03-01,2,Volume effect,All,1486.022982
+2025-04-01,2025-03-01,3,Mix effect,E-commerce,-62.961327
+2025-04-01,2025-03-01,3,Mix effect,Forex,329.086608
+2025-04-01,2025-03-01,3,Mix effect,Marketplace,78.948252
+2025-04-01,2025-03-01,3,Mix effect,SaaS,-119.382409
+2025-04-01,2025-03-01,3,Mix effect,iGaming,-265.520927
+2025-04-01,2025-03-01,4,Take-rate effect,E-commerce,-111.039245
+2025-04-01,2025-03-01,4,Take-rate effect,Forex,-511.673101
+2025-04-01,2025-03-01,4,Take-rate effect,Marketplace,-44.234681
+2025-04-01,2025-03-01,4,Take-rate effect,SaaS,-710.957457
+2025-04-01,2025-03-01,4,Take-rate effect,iGaming,-303.588695
+2025-04-01,2025-03-01,5,Revenue this month,All,63856.77
+2025-05-01,2025-04-01,1,Revenue previous month,All,63856.77
+2025-05-01,2025-04-01,2,Volume effect,All,7098.815876
+2025-05-01,2025-04-01,3,Mix effect,E-commerce,-1912.035193
+2025-05-01,2025-04-01,3,Mix effect,Forex,2622.0381
+2025-05-01,2025-04-01,3,Mix effect,Marketplace,396.109573
+2025-05-01,2025-04-01,3,Mix effect,SaaS,-2645.336219
+2025-05-01,2025-04-01,3,Mix effect,iGaming,1561.993213
+2025-05-01,2025-04-01,4,Take-rate effect,E-commerce,117.308233
+2025-05-01,2025-04-01,4,Take-rate effect,Forex,12.19508
+2025-05-01,2025-04-01,4,Take-rate effect,Marketplace,-145.753341
+2025-05-01,2025-04-01,4,Take-rate effect,SaaS,-163.118102
+2025-05-01,2025-04-01,4,Take-rate effect,iGaming,-129.257222
+2025-05-01,2025-04-01,5,Revenue this month,All,70669.73
+2025-06-01,2025-05-01,1,Revenue previous month,All,70669.73
+2025-06-01,2025-05-01,2,Volume effect,All,-323.795814
+2025-06-01,2025-05-01,3,Mix effect,E-commerce,214.424695
+2025-06-01,2025-05-01,3,Mix effect,Forex,792.948314
+2025-06-01,2025-05-01,3,Mix effect,Marketplace,19.179253
+2025-06-01,2025-05-01,3,Mix effect,SaaS,-1304.295968
+2025-06-01,2025-05-01,3,Mix effect,iGaming,424.226592
+2025-06-01,2025-05-01,4,Take-rate effect,E-commerce,216.034184
+2025-06-01,2025-05-01,4,Take-rate effect,Forex,821.995818
+2025-06-01,2025-05-01,4,Take-rate effect,Marketplace,92.930265
+2025-06-01,2025-05-01,4,Take-rate effect,SaaS,620.017599
+2025-06-01,2025-05-01,4,Take-rate effect,iGaming,402.695062
+2025-06-01,2025-05-01,5,Revenue this month,All,72646.09
+2025-07-01,2025-06-01,1,Revenue previous month,All,72646.09
+2025-07-01,2025-06-01,2,Volume effect,All,6421.74473
+2025-07-01,2025-06-01,3,Mix effect,E-commerce,-358.905316
+2025-07-01,2025-06-01,3,Mix effect,Forex,2184.49016
+2025-07-01,2025-06-01,3,Mix effect,Marketplace,-200.90157
+2025-07-01,2025-06-01,3,Mix effect,SaaS,-1373.966002
+2025-07-01,2025-06-01,3,Mix effect,iGaming,-340.345361
+2025-07-01,2025-06-01,4,Take-rate effect,E-commerce,-140.553983
+2025-07-01,2025-06-01,4,Take-rate effect,Forex,-768.304858
+2025-07-01,2025-06-01,4,Take-rate effect,Marketplace,-7.452869
+2025-07-01,2025-06-01,4,Take-rate effect,SaaS,-528.171515
+2025-07-01,2025-06-01,4,Take-rate effect,iGaming,-517.313417
+2025-07-01,2025-06-01,5,Revenue this month,All,77016.41
+2025-08-01,2025-07-01,1,Revenue previous month,All,77016.41
+2025-08-01,2025-07-01,2,Volume effect,All,8823.225341
+2025-08-01,2025-07-01,3,Mix effect,E-commerce,-1154.361747
+2025-08-01,2025-07-01,3,Mix effect,Forex,1995.128333
+2025-08-01,2025-07-01,3,Mix effect,Marketplace,-292.945122
+2025-08-01,2025-07-01,3,Mix effect,SaaS,208.342788
+2025-08-01,2025-07-01,3,Mix effect,iGaming,-1197.147332
+2025-08-01,2025-07-01,4,Take-rate effect,E-commerce,109.087164
+2025-08-01,2025-07-01,4,Take-rate effect,Forex,-158.818269
+2025-08-01,2025-07-01,4,Take-rate effect,Marketplace,-126.167514
+2025-08-01,2025-07-01,4,Take-rate effect,SaaS,-286.097438
+2025-08-01,2025-07-01,4,Take-rate effect,iGaming,356.483796
+2025-08-01,2025-07-01,5,Revenue this month,All,85293.14
+2025-09-01,2025-08-01,1,Revenue previous month,All,85293.14
+2025-09-01,2025-08-01,2,Volume effect,All,-3772.644317
+2025-09-01,2025-08-01,3,Mix effect,E-commerce,1810.897509
+2025-09-01,2025-08-01,3,Mix effect,Forex,-1494.490435
+2025-09-01,2025-08-01,3,Mix effect,Marketplace,-142.015948
+2025-09-01,2025-08-01,3,Mix effect,SaaS,47.718914
+2025-09-01,2025-08-01,3,Mix effect,iGaming,158.544585
+2025-09-01,2025-08-01,4,Take-rate effect,E-commerce,501.219126
+2025-09-01,2025-08-01,4,Take-rate effect,Forex,1424.247113
+2025-09-01,2025-08-01,4,Take-rate effect,Marketplace,206.132562
+2025-09-01,2025-08-01,4,Take-rate effect,SaaS,1726.256828
+2025-09-01,2025-08-01,4,Take-rate effect,iGaming,302.554063
+2025-09-01,2025-08-01,5,Revenue this month,All,86061.56
+2025-10-01,2025-09-01,1,Revenue previous month,All,86061.56
+2025-10-01,2025-09-01,2,Volume effect,All,4096.715725
+2025-10-01,2025-09-01,3,Mix effect,E-commerce,-1210.054885
+2025-10-01,2025-09-01,3,Mix effect,Forex,1383.204414
+2025-10-01,2025-09-01,3,Mix effect,Marketplace,-133.329095
+2025-10-01,2025-09-01,3,Mix effect,SaaS,-414.812618
+2025-10-01,2025-09-01,3,Mix effect,iGaming,145.254462
+2025-10-01,2025-09-01,4,Take-rate effect,E-commerce,-653.151197
+2025-10-01,2025-09-01,4,Take-rate effect,Forex,-1034.932946
+2025-10-01,2025-09-01,4,Take-rate effect,Marketplace,-101.468825
+2025-10-01,2025-09-01,4,Take-rate effect,SaaS,-926.854275
+2025-10-01,2025-09-01,4,Take-rate effect,iGaming,-666.81076
+2025-10-01,2025-09-01,5,Revenue this month,All,86545.32
+2025-11-01,2025-10-01,1,Revenue previous month,All,86545.32
+2025-11-01,2025-10-01,2,Volume effect,All,-5504.883298
+2025-11-01,2025-10-01,3,Mix effect,E-commerce,1479.24977
+2025-11-01,2025-10-01,3,Mix effect,Forex,-1553.771574
+2025-11-01,2025-10-01,3,Mix effect,Marketplace,496.925786
+2025-11-01,2025-10-01,3,Mix effect,SaaS,574.599081
+2025-11-01,2025-10-01,3,Mix effect,iGaming,-780.79439
+2025-11-01,2025-10-01,4,Take-rate effect,E-commerce,7.531387
+2025-11-01,2025-10-01,4,Take-rate effect,Forex,210.839875
+2025-11-01,2025-10-01,4,Take-rate effect,Marketplace,73.110777
+2025-11-01,2025-10-01,4,Take-rate effect,SaaS,17.596664
+2025-11-01,2025-10-01,4,Take-rate effect,iGaming,192.385923
+2025-11-01,2025-10-01,5,Revenue this month,All,81758.11
+2025-12-01,2025-11-01,1,Revenue previous month,All,81758.11
+2025-12-01,2025-11-01,2,Volume effect,All,8769.115946
+2025-12-01,2025-11-01,3,Mix effect,E-commerce,-289.144158
+2025-12-01,2025-11-01,3,Mix effect,Forex,2155.157924
+2025-12-01,2025-11-01,3,Mix effect,Marketplace,32.706875
+2025-12-01,2025-11-01,3,Mix effect,SaaS,-953.545833
+2025-12-01,2025-11-01,3,Mix effect,iGaming,-1122.265768
+2025-12-01,2025-11-01,4,Take-rate effect,E-commerce,547.26897
+2025-12-01,2025-11-01,4,Take-rate effect,Forex,782.20606
+2025-12-01,2025-11-01,4,Take-rate effect,Marketplace,83.321993
+2025-12-01,2025-11-01,4,Take-rate effect,SaaS,365.148814
+2025-12-01,2025-11-01,4,Take-rate effect,iGaming,487.849177
+2025-12-01,2025-11-01,5,Revenue this month,All,92615.93
+2026-01-01,2025-12-01,1,Revenue previous month,All,92615.93
+2026-01-01,2025-12-01,2,Volume effect,All,4490.997867
+2026-01-01,2025-12-01,3,Mix effect,E-commerce,800.89222
+2026-01-01,2025-12-01,3,Mix effect,Forex,1987.419205
+2026-01-01,2025-12-01,3,Mix effect,Marketplace,686.562526
+2026-01-01,2025-12-01,3,Mix effect,SaaS,-3498.050905
+2026-01-01,2025-12-01,3,Mix effect,iGaming,468.055219
+2026-01-01,2025-12-01,4,Take-rate effect,E-commerce,-796.914495
+2026-01-01,2025-12-01,4,Take-rate effect,Forex,-1485.654601
+2026-01-01,2025-12-01,4,Take-rate effect,Marketplace,16.050287
+2026-01-01,2025-12-01,4,Take-rate effect,SaaS,-433.844308
+2026-01-01,2025-12-01,4,Take-rate effect,iGaming,-215.373016
+2026-01-01,2025-12-01,5,Revenue this month,All,94636.07
+2026-02-01,2026-01-01,1,Revenue previous month,All,94636.07
+2026-02-01,2026-01-01,2,Volume effect,All,-1446.704455
+2026-02-01,2026-01-01,3,Mix effect,E-commerce,985.473738
+2026-02-01,2026-01-01,3,Mix effect,Forex,-2093.015495
+2026-02-01,2026-01-01,3,Mix effect,Marketplace,-563.067077
+2026-02-01,2026-01-01,3,Mix effect,SaaS,2307.279365
+2026-02-01,2026-01-01,3,Mix effect,iGaming,-716.510574
+2026-02-01,2026-01-01,4,Take-rate effect,E-commerce,30.931128
+2026-02-01,2026-01-01,4,Take-rate effect,Forex,923.817843
+2026-02-01,2026-01-01,4,Take-rate effect,Marketplace,92.454699
+2026-02-01,2026-01-01,4,Take-rate effect,SaaS,217.454878
+2026-02-01,2026-01-01,4,Take-rate effect,iGaming,10.68595
+2026-02-01,2026-01-01,5,Revenue this month,All,94384.87
+2026-03-01,2026-02-01,1,Revenue previous month,All,94384.87
+2026-03-01,2026-02-01,2,Volume effect,All,5321.403776
+2026-03-01,2026-02-01,3,Mix effect,E-commerce,1249.206765
+2026-03-01,2026-02-01,3,Mix effect,Forex,1655.304796
+2026-03-01,2026-02-01,3,Mix effect,Marketplace,647.340282
+2026-03-01,2026-02-01,3,Mix effect,SaaS,-3796.241565
+2026-03-01,2026-02-01,3,Mix effect,iGaming,796.243468
+2026-03-01,2026-02-01,4,Take-rate effect,E-commerce,10.583417
+2026-03-01,2026-02-01,4,Take-rate effect,Forex,196.303476
+2026-03-01,2026-02-01,4,Take-rate effect,Marketplace,22.407564
+2026-03-01,2026-02-01,4,Take-rate effect,SaaS,872.737379
+2026-03-01,2026-02-01,4,Take-rate effect,iGaming,273.380643
+2026-03-01,2026-02-01,5,Revenue this month,All,101633.54
+2026-04-01,2026-03-01,1,Revenue previous month,All,101633.54
+2026-04-01,2026-03-01,2,Volume effect,All,268.08055
+2026-04-01,2026-03-01,3,Mix effect,E-commerce,1985.466111
+2026-04-01,2026-03-01,3,Mix effect,Forex,-2519.976643
+2026-04-01,2026-03-01,3,Mix effect,Marketplace,1003.142151
+2026-04-01,2026-03-01,3,Mix effect,SaaS,-712.171505
+2026-04-01,2026-03-01,3,Mix effect,iGaming,859.262372
+2026-04-01,2026-03-01,4,Take-rate effect,E-commerce,-789.137105
+2026-04-01,2026-03-01,4,Take-rate effect,Forex,-882.356403
+2026-04-01,2026-03-01,4,Take-rate effect,Marketplace,-330.989355
+2026-04-01,2026-03-01,4,Take-rate effect,SaaS,-498.342843
+2026-04-01,2026-03-01,4,Take-rate effect,iGaming,-399.40733
+2026-04-01,2026-03-01,5,Revenue this month,All,99617.11
+2026-05-01,2026-04-01,1,Revenue previous month,All,99617.11
+2026-05-01,2026-04-01,2,Volume effect,All,4207.404473
+2026-05-01,2026-04-01,3,Mix effect,E-commerce,-505.441771
+2026-05-01,2026-04-01,3,Mix effect,Forex,-1126.282047
+2026-05-01,2026-04-01,3,Mix effect,Marketplace,869.077018
+2026-05-01,2026-04-01,3,Mix effect,SaaS,-1.720201
+2026-05-01,2026-04-01,3,Mix effect,iGaming,978.486634
+2026-05-01,2026-04-01,4,Take-rate effect,E-commerce,-267.372414
+2026-05-01,2026-04-01,4,Take-rate effect,Forex,128.632329
+2026-05-01,2026-04-01,4,Take-rate effect,Marketplace,-89.402732
+2026-05-01,2026-04-01,4,Take-rate effect,SaaS,-413.088744
+2026-05-01,2026-04-01,4,Take-rate effect,iGaming,134.747456
+2026-05-01,2026-04-01,5,Revenue this month,All,103532.15
+2026-06-01,2026-05-01,1,Revenue previous month,All,103532.15
+2026-06-01,2026-05-01,2,Volume effect,All,-4024.139165
+2026-06-01,2026-05-01,3,Mix effect,E-commerce,1208.413464
+2026-06-01,2026-05-01,3,Mix effect,Forex,-2337.443261
+2026-06-01,2026-05-01,3,Mix effect,Marketplace,448.846569
+2026-06-01,2026-05-01,3,Mix effect,SaaS,950.270805
+2026-06-01,2026-05-01,3,Mix effect,iGaming,-94.354248
+2026-06-01,2026-05-01,4,Take-rate effect,E-commerce,494.379293
+2026-06-01,2026-05-01,4,Take-rate effect,Forex,1301.043547
+2026-06-01,2026-05-01,4,Take-rate effect,Marketplace,285.333181
+2026-06-01,2026-05-01,4,Take-rate effect,SaaS,797.341662
+2026-06-01,2026-05-01,4,Take-rate effect,iGaming,671.458152
+2026-06-01,2026-05-01,5,Revenue this month,All,103233.3
+2026-07-01,2026-06-01,1,Revenue previous month,All,103233.3
+2026-07-01,2026-06-01,2,Volume effect,All,7810.00387
+2026-07-01,2026-06-01,3,Mix effect,E-commerce,618.024125
+2026-07-01,2026-06-01,3,Mix effect,Forex,733.197332
+2026-07-01,2026-06-01,3,Mix effect,Marketplace,-548.217288
+2026-07-01,2026-06-01,3,Mix effect,SaaS,-1351.554501
+2026-07-01,2026-06-01,3,Mix effect,iGaming,696.568423
+2026-07-01,2026-06-01,4,Take-rate effect,E-commerce,-743.873839
+2026-07-01,2026-06-01,4,Take-rate effect,Forex,-1182.198066
+2026-07-01,2026-06-01,4,Take-rate effect,Marketplace,-179.215751
+2026-07-01,2026-06-01,4,Take-rate effect,SaaS,-673.306328
+2026-07-01,2026-06-01,4,Take-rate effect,iGaming,-1042.657977
+2026-07-01,2026-06-01,5,Revenue this month,All,107370.07
+2026-08-01,2026-07-01,1,Revenue previous month,All,107370.07
+2026-08-01,2026-07-01,2,Volume effect,All,6215.888813
+2026-08-01,2026-07-01,3,Mix effect,E-commerce,1231.866799
+2026-08-01,2026-07-01,3,Mix effect,Forex,-160.59094
+2026-08-01,2026-07-01,3,Mix effect,Marketplace,-664.677044
+2026-08-01,2026-07-01,3,Mix effect,SaaS,-977.334231
+2026-08-01,2026-07-01,3,Mix effect,iGaming,742.053978
+2026-08-01,2026-07-01,4,Take-rate effect,E-commerce,442.002553
+2026-08-01,2026-07-01,4,Take-rate effect,Forex,1783.433595
+2026-08-01,2026-07-01,4,Take-rate effect,Marketplace,144.755465
+2026-08-01,2026-07-01,4,Take-rate effect,SaaS,802.745684
+2026-08-01,2026-07-01,4,Take-rate effect,iGaming,718.005328
+2026-08-01,2026-07-01,5,Revenue this month,All,117648.22
+2026-09-01,2026-08-01,1,Revenue previous month,All,117648.22
+2026-09-01,2026-08-01,2,Volume effect,All,1995.812331
+2026-09-01,2026-08-01,3,Mix effect,E-commerce,-1175.155193
+2026-09-01,2026-08-01,3,Mix effect,Forex,1972.867648
+2026-09-01,2026-08-01,3,Mix effect,Marketplace,-289.625329
+2026-09-01,2026-08-01,3,Mix effect,SaaS,-101.603891
+2026-09-01,2026-08-01,3,Mix effect,iGaming,-621.555893
+2026-09-01,2026-08-01,4,Take-rate effect,E-commerce,-735.023114
+2026-09-01,2026-08-01,4,Take-rate effect,Forex,-1098.597992
+2026-09-01,2026-08-01,4,Take-rate effect,Marketplace,-256.044154
+2026-09-01,2026-08-01,4,Take-rate effect,SaaS,-583.115292
+2026-09-01,2026-08-01,4,Take-rate effect,iGaming,-201.079122
+2026-09-01,2026-08-01,5,Revenue this month,All,116555.1
+2026-10-01,2026-09-01,1,Revenue previous month,All,116555.1
+2026-10-01,2026-09-01,2,Volume effect,All,7322.801019
+2026-10-01,2026-09-01,3,Mix effect,E-commerce,1077.018756
+2026-10-01,2026-09-01,3,Mix effect,Forex,-1160.178227
+2026-10-01,2026-09-01,3,Mix effect,Marketplace,1160.94758
+2026-10-01,2026-09-01,3,Mix effect,SaaS,-515.93182
+2026-10-01,2026-09-01,3,Mix effect,iGaming,-396.149213
+2026-10-01,2026-09-01,4,Take-rate effect,E-commerce,-245.410775
+2026-10-01,2026-09-01,4,Take-rate effect,Forex,-125.372808
+2026-10-01,2026-09-01,4,Take-rate effect,Marketplace,-168.881556
+2026-10-01,2026-09-01,4,Take-rate effect,SaaS,-45.359604
+2026-10-01,2026-09-01,4,Take-rate effect,iGaming,-150.163352
+2026-10-01,2026-09-01,5,Revenue this month,All,123308.42

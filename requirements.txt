@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=2.0
+duckdb>=1.1
+pyarrow>=16
+pytz
+openpyxl>=3.1
+requests>=2.32
+matplotlib>=3.8
+jupyter
+nbformat
+nbconvert
+tableauhyperapi                    # writes the .hyper extracts Tableau Public needs
+pywin32; sys_platform == "win32"   # only to add PivotTables/slicers and recalc with Excel
